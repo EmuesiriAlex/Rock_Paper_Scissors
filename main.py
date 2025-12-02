@@ -1,6 +1,6 @@
 import random
 
-player_choice = input("Select your option (1 = Rock, 2 = Paper, 3 = Scissors): ")
+player_choice = int(input("Select your option (1 = Rock, 2 = Paper, 3 = Scissors): "))
 
 if player_choice == 1:
     player_choice_name = "Rock"
@@ -9,7 +9,7 @@ elif player_choice == 2:
 else:
     player_choice_name = "Scissors"
 
-computer_choice = random.randrange(2) + 1
+computer_choice = random.randint(1, 3)
 
 if computer_choice == 1:
     computer_choice_name = "Rock"
