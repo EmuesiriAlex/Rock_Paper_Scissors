@@ -29,7 +29,7 @@ elif player_choice == computer_choice:
 else:
     print("You win!")
 
-print(f"Player choice: {player_choice}")
-print(f"Player choice: {player_choice_name}")
-print(f"Computer choice: {computer_choice}")
-print(f"Computer choice: {computer_choice_name}")
+# print(f"Player choice: {player_choice}")
+# print(f"Player choice: {player_choice_name}")
+# print(f"Computer choice: {computer_choice}")
+# print(f"Computer choice: {computer_choice_name}")
