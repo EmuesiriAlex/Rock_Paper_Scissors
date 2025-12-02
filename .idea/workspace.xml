@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="walahi I added  lot of features">
+    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="added loop and error handling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764673463553</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added loop and error handling">
+      <option name="closed" value="true" />
+      <created>1764674251042</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764674251042</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +173,7 @@
     <MESSAGE value="removed the player and computer choice print." />
     <MESSAGE value="mapping the player and computer choices" />
     <MESSAGE value="walahi I added  lot of features" />
-    <option name="LAST_COMMIT_MESSAGE" value="walahi I added  lot of features" />
+    <MESSAGE value="added loop and error handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loop and error handling" />
   </component>
 </project>

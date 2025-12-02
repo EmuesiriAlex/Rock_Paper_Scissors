@@ -3,7 +3,13 @@ import random
 # mapping numbers to choices
 choices = {1: "Rock", 2: "Paper", 3: "Scissors"}
 
+# initialize scores
+player_score = 0
+computer_score = 0
+round_number = 1
+
 while True:
+    print(f"--- Round {round_number} ---")
     try:
         player_choice = int(input("Select your option (1 = Rock, 2 = Paper, 3 = Scissors, 0 = Quit): "))
     except ValueError:
@@ -12,6 +18,7 @@ while True:
 
     if player_choice == 0:
         print("Thanks for playing!")
+        print(f"Final Score -> You: {player_score}, Computer: {computer_score}")
         break
 
     player_choice_name = choices.get(player_choice, "Invalid choice")
@@ -33,7 +40,11 @@ while True:
             (player_choice == 2 and computer_choice == 1) or \
             (player_choice == 3 and computer_choice == 2):
         print("You win!")
+        player_score += 1
     else:
         print("Computer wins!")
+        computer_score += 1
 
+    print(f"Score -> You: {player_score}, Computer: {computer_score}")
     print()  # blank line between rounds
+    round_number += 1
