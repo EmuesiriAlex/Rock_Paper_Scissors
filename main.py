@@ -19,7 +19,7 @@ while True:
 
     if player_choice == 0:
         print("Thanks for playing!")
-        print(f"Final Score -> You: {player_score}, Computer: {computer_score}, Draw: {darw_score}")
+        print(f"Final Score -> You: {player_score}, Computer: {computer_score}, Draws: {darw_score}")
         break
 
     player_choice_name = choices.get(player_choice, "Invalid choice")
