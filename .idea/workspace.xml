@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="added score tracker">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="fixed draw_score typo (darw_score)">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +167,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764674684415</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added final draw score">
+      <option name="closed" value="true" />
+      <created>1764674856266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764674856266</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added final draw(s) score">
+      <option name="closed" value="true" />
+      <created>1764674914676</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764674914676</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed draw_score typo (darw_score)">
+      <option name="closed" value="true" />
+      <created>1764675026559</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764675026559</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +206,9 @@
     <MESSAGE value="walahi I added  lot of features" />
     <MESSAGE value="added loop and error handling" />
     <MESSAGE value="added score tracker" />
-    <option name="LAST_COMMIT_MESSAGE" value="added score tracker" />
+    <MESSAGE value="added final draw score" />
+    <MESSAGE value="added final draw(s) score" />
+    <MESSAGE value="fixed draw_score typo (darw_score)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed draw_score typo (darw_score)" />
   </component>
 </project>

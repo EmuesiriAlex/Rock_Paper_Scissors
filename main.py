@@ -37,7 +37,7 @@ while True:
     # determine winner
     if player_choice == computer_choice:
         print("It's a draw!")
-        darw_score += 1
+        draw_score += 1
     elif (player_choice == 1 and computer_choice == 3) or \
             (player_choice == 2 and computer_choice == 1) or \
             (player_choice == 3 and computer_choice == 2):
