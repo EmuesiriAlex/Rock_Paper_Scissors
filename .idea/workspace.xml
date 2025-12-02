@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="testing the git control">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="game test to see the choices" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,13 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764668913051</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="game test">
+      <option name="closed" value="true" />
+      <created>1764669376189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764669376189</updated>
+    </task>
+    <task id="LOCAL-00006" summary="game test to see the choices">
+      <option name="closed" value="true" />
+      <created>1764669820221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764669820221</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opening commit" />
     <MESSAGE value="created the main game files" />
     <MESSAGE value="testing the git control" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing the git control" />
+    <MESSAGE value="game test" />
+    <MESSAGE value="game test to see the choices" />
+    <option name="LAST_COMMIT_MESSAGE" value="game test to see the choices" />
   </component>
 </project>
