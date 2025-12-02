@@ -17,9 +17,9 @@ print(f"Welcome, {player_name}! Let's play Rock-Paper-Scissors.")
 
 def show_rules():
     print("\n--- Rules ---")
-    print("Rock 🪨 beats Scissors ✂️")
+    print("Rock 🪨 beats Scissors ️✂️")
     print("Paper 📄 beats Rock 🪨")
-    print("Scissors ✂️ beats Paper 📄")
+    print("Scissors ✂️️ beats Paper 📄")
     print("Enter 0 to quit, 9 to reset the game, 8 to see rules.\n")
 
 
