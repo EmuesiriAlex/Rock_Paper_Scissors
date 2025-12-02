@@ -4,7 +4,7 @@ import random
 choices = {1: "Rock", 2: "Paper", 3: "Scissors"}
 
 # initialize scores
-darw_score = 0
+draw_score = 0
 player_score = 0
 computer_score = 0
 round_number = 1
@@ -19,7 +19,7 @@ while True:
 
     if player_choice == 0:
         print("Thanks for playing!")
-        print(f"Final Score -> You: {player_score}, Computer: {computer_score}, Draws: {darw_score}")
+        print(f"Final Score -> You: {player_score}, Computer: {computer_score}, Draws: {draw_score}")
         break
 
     player_choice_name = choices.get(player_choice, "Invalid choice")
@@ -47,6 +47,6 @@ while True:
         print("Computer wins!")
         computer_score += 1
 
-    print(f"Score -> You: {player_score}, Computer: {computer_score}, Draw: {darw_score}")
+    print(f"Score -> You: {player_score}, Computer: {computer_score}, Draw: {draw_score}")
     print()  # blank line between rounds
     round_number += 1
