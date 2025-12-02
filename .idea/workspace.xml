@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="fixed draw_score typo (darw_score)">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="0656494d-651f-4d36-8c6f-8822079a52b0" name="Changes" comment="added history, player name and rules" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764675058184</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added history, player name and rules">
+      <option name="closed" value="true" />
+      <created>1764675379761</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764675379761</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added history, player name and rules">
+      <option name="closed" value="true" />
+      <created>1764675451558</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1764675451558</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +231,7 @@
     <MESSAGE value="added final draw score" />
     <MESSAGE value="added final draw(s) score" />
     <MESSAGE value="fixed draw_score typo (darw_score)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed draw_score typo (darw_score)" />
+    <MESSAGE value="added history, player name and rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="added history, player name and rules" />
   </component>
 </project>
